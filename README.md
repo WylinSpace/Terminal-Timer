@@ -1,11 +1,7 @@
 # Terminal Timer
 
---
-
 ## Claim
 This project is builded by **LIEW WEN HAO**, all right reserved.
-
---
 
 ## Table of Contents
 
