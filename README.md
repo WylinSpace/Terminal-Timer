@@ -21,7 +21,13 @@ The Timer program is a simple countdown application designed to allow users to i
 
 ## Methodology
 
-The program consists of a `Timer` class that handles the countdown logic. The main program prompts the user to choose the time unit for input: seconds, minutes, or hours. Based on the user’s selection, the corresponding time conversion is done to set the initial time for the countdown. The countdown is then displayed in real-time, updating every second, while hiding the cursor to keep the interface clean and focused on the countdown itself.
+The program consists of a `Timer` class that handles the countdown logic. 
+
+The main program prompts the user to choose the time unit for input: seconds, minutes, or hours. Based on the user’s selection, the corresponding time conversion is done to set the initial time for the countdown. 
+
+The countdown is then displayed in real-time, updating every second, while hiding the cursor to keep the interface clean and focused on the countdown itself.
+
+The countdown of the time is using the chrono format instead of direct input from the computer in real time. This added the complexity of the project and make it harder to be writen.
 
 ---
 
